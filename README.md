@@ -1,5 +1,5 @@
 # Alga Alligata
-## Minimal startpage with searchbar & links....
+## Minimal startpage with search bar & links....
 > Startpage
 
 ![alt text](http://i.imgur.com/fH1oKs5.png "Startpage")
