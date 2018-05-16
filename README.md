@@ -1,4 +1,4 @@
-# alga alligata
+# Alga Alligata
 ## Minimal startpage with searchbar & links....
 > Startpage
 
